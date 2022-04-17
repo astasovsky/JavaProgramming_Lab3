@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c54ffbb-1ba8-4380-a538-e4615036b9de" name="Changes" comment="Example 3.6. Done">
-      <change afterPath="$PROJECT_DIR$/Example3.7/Example3.7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example3.7/src/Example7.java" afterDir="false" />
+    <list default="true" id="9c54ffbb-1ba8-4380-a538-e4615036b9de" name="Changes" comment="Example 3.7. Done">
+      <change afterPath="$PROJECT_DIR$/Example3.8/Example3.8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example3.8/src/Except1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -48,14 +48,7 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Example7">
-    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Example3" />
-      <module name="Example3.3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Except1">
     <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Example4" />
       <module name="Example3.4" />
@@ -84,13 +77,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Except1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Except1" />
+      <module name="Example3.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Except1" />
         <item itemvalue="Application.Example7" />
         <item itemvalue="Application.Example6" />
         <item itemvalue="Application.Example5" />
         <item itemvalue="Application.Example4" />
-        <item itemvalue="Application.Example3" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +102,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650191628307</updated>
-      <workItem from="1650191636888" duration="3452000" />
+      <workItem from="1650191636888" duration="4065000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1650191837637</created>
@@ -153,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650197870515</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Example 3.7. Done">
+      <created>1650198308100</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1650198308100</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,6 +185,17 @@
     <MESSAGE value="Example 3.3. Done" />
     <MESSAGE value="Example 3.5. Done" />
     <MESSAGE value="Example 3.6. Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Example 3.6. Done" />
+    <MESSAGE value="Example 3.7. Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Example 3.7. Done" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArithmeticException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
