@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c54ffbb-1ba8-4380-a538-e4615036b9de" name="Changes" comment="Example 3.10. Done">
-      <change afterPath="$PROJECT_DIR$/Example3.11/Example3.11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example3.11/src/Except4.java" afterDir="false" />
+    <list default="true" id="9c54ffbb-1ba8-4380-a538-e4615036b9de" name="Changes" comment="Example 3.11. Done">
+      <change afterPath="$PROJECT_DIR$/Example3.12/Example3.12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example3.12/src/Except5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,14 +47,7 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Except4">
-    <configuration name="Example7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Example7" />
-      <module name="Example3.7" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Except5">
     <configuration name="Except1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Except1" />
       <module name="Example3.8" />
@@ -84,13 +76,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Except5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Except5" />
+      <module name="Example3.12" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Except5" />
         <item itemvalue="Application.Except4" />
         <item itemvalue="Application.Except3" />
         <item itemvalue="Application.Except2" />
         <item itemvalue="Application.Except1" />
-        <item itemvalue="Application.Example7" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650191628307</updated>
-      <workItem from="1650191636888" duration="4972000" />
+      <workItem from="1650191636888" duration="5145000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1650191837637</created>
@@ -181,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650199458324</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Example 3.11. Done">
+      <created>1650199731253</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1650199731253</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,7 +216,8 @@
     <MESSAGE value="Example 3.8. Done" />
     <MESSAGE value="Example 3.9. Done" />
     <MESSAGE value="Example 3.10. Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Example 3.10. Done" />
+    <MESSAGE value="Example 3.11. Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Example 3.11. Done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
