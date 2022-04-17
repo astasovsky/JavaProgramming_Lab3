@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c54ffbb-1ba8-4380-a538-e4615036b9de" name="Changes" comment="Example 3.2. Done">
-      <change afterPath="$PROJECT_DIR$/Example3.3/src/Example3.java" afterDir="false" />
+    <list default="true" id="9c54ffbb-1ba8-4380-a538-e4615036b9de" name="Changes" comment="Example 3.4. Done">
+      <change afterPath="$PROJECT_DIR$/Example3.5/Example3.5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example3.5/src/Example5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +48,7 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Example4">
+  <component name="RunManager" selected="Application.Example5">
     <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Example1" />
       <module name="Example3.1" />
@@ -75,8 +77,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Example5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example5" />
+      <module name="Example3.5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example5" />
         <item itemvalue="Application.Example4" />
         <item itemvalue="Application.Example3" />
         <item itemvalue="Application.Example2" />
@@ -92,7 +102,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650191628307</updated>
-      <workItem from="1650191636888" duration="2136000" />
+      <workItem from="1650191636888" duration="2518000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1650191837637</created>
@@ -115,7 +125,21 @@
       <option name="project" value="LOCAL" />
       <updated>1650196657361</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Example 3.3. Done">
+      <created>1650196885282</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1650196885282</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Example 3.4. Done">
+      <created>1650197098362</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1650197098362</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +161,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Example 3.1. Done" />
     <MESSAGE value="Example 3.2. Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Example 3.2. Done" />
+    <MESSAGE value="Example 3.3. Done" />
+    <MESSAGE value="Example 3.4. Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Example 3.4. Done" />
   </component>
 </project>
